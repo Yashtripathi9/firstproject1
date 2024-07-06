@@ -2,7 +2,7 @@
 
 This is a website which is developed as part of YourLab Internship. this is a simple landing page of personal portfolio website.
 
-Project Link: 
+Project Link: https://github.com/Yashtripathi9/firstproject1
 
 Key Features
 A brief introduction or tagline that highlights my expertise and what I offer.
